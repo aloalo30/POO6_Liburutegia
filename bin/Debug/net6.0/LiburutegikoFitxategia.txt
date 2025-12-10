@@ -1,0 +1,19 @@
+Egilea: EBerria$Enongoa$ASDFGHJK
+-     LBERRIA-LISBN-6 orri 
+Egilea: a$a$JGRHISHAM
+-    A-A-3 orri 
+Egilea: John Grisham$estatu batuarra$JGRISHAM
+-            LA GRANJA-2512KJ-780 orri > alokatua
+-            SIN SALIDA-5485PL-125 orri > alokatua
+-            EL ÚLTIMO JURADO-9876RT-845 orri 
+-            EL CLIENTE-2345RT-100 orri 
+-   LA TAPADERA 2-TAPADE2-0 orri 
+- EL CLIENTE-AAAAA-67 orri 
+Egilea: Jean M. Auel$ingelesa$JMAUEL12
+-            EL CLAN DEL OSO CAVERNARIO-1245CL-452 orri 
+-            EL VALLE DE LOS CABALLOS-3453RR-452 orri 
+-            LOS CAZADORES DE MAMAUTS-2345MA-0 orri > alokatua
+Egilea: Michaell Connely$estatu batuarra$MCONELLY
+-            CIUDAD DE HUESOS-9809PO-251 orri > alokatua
+-            LLAMADA PERDIDA-3423KO-500 orri 
+-            VUELO DEL ÁNGEL-8799ER-823 orri 

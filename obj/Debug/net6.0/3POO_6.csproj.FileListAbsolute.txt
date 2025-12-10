@@ -1,0 +1,42 @@
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\bin\Debug\net6.0\3POO_6.exe
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\bin\Debug\net6.0\3POO_6.deps.json
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\bin\Debug\net6.0\3POO_6.runtimeconfig.json
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\bin\Debug\net6.0\3POO_6.dll
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\bin\Debug\net6.0\3POO_6.pdb
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\obj\Debug\net6.0\3POO_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\obj\Debug\net6.0\3POO_6.AssemblyInfoInputs.cache
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\obj\Debug\net6.0\3POO_6.AssemblyInfo.cs
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\obj\Debug\net6.0\3POO_6.csproj.CoreCompileInputs.cache
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\obj\Debug\net6.0\3POO_6.dll
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\obj\Debug\net6.0\refint\3POO_6.dll
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\obj\Debug\net6.0\3POO_6.pdb
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\obj\Debug\net6.0\3POO_6.genruntimeconfig.cache
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6\obj\Debug\net6.0\ref\3POO_6.dll
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\bin\Debug\net6.0\3POO_6.exe
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\bin\Debug\net6.0\3POO_6.deps.json
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\bin\Debug\net6.0\3POO_6.runtimeconfig.json
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\bin\Debug\net6.0\3POO_6.dll
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\bin\Debug\net6.0\3POO_6.pdb
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.AssemblyInfoInputs.cache
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.AssemblyInfo.cs
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.csproj.CoreCompileInputs.cache
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.dll
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\obj\Debug\net6.0\refint\3POO_6.dll
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.pdb
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.genruntimeconfig.cache
+C:\Users\irInfor6\Desktop\PAAG\3POO\3POO_6Liburutegia\obj\Debug\net6.0\ref\3POO_6.dll
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\bin\Debug\net6.0\3POO_6.exe
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\bin\Debug\net6.0\3POO_6.deps.json
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\bin\Debug\net6.0\3POO_6.runtimeconfig.json
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\bin\Debug\net6.0\3POO_6.dll
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\bin\Debug\net6.0\3POO_6.pdb
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.AssemblyInfoInputs.cache
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.AssemblyInfo.cs
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.csproj.CoreCompileInputs.cache
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.dll
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\obj\Debug\net6.0\refint\3POO_6.dll
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.pdb
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\obj\Debug\net6.0\3POO_6.genruntimeconfig.cache
+C:\Users\irInfor6\Desktop\PAAG\0485 PROGRAMAZIOA\3POO\3POO_6Liburutegia\obj\Debug\net6.0\ref\3POO_6.dll

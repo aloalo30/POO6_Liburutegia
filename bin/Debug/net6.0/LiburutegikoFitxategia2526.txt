@@ -1,0 +1,13 @@
+John Grisham>estatu batuarra>JGRISHAM
+La Granja>2512KJ>780>alokatua
+Sin salida>5485PL>125>alokatua
+El último jurado>9876RT>845>desalokatua
+El cliente>2345RT>0>desalokatua
+Michaell Connely>estatu batuarra>MCONELLY
+Ciudad de huesos>9809PO>251>alokatua
+Llamada perdida>3423KO>0>desalokatua
+Vuelo del ángel>8799ER>823>alokatua
+Jean M. Auel>ingelesa>JMAUEL12
+El clan del oso cavernario>1245CL>452>desalokatua
+El valle de los caballos>3453RR>452>desalokatua
+Los cazadores de mamauts>2345MA>0>alokatua

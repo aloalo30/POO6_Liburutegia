@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irInfor6\\Desktop\\PAAG\\0485 PROGRAMAZIOA\\3POO\\3POO_6Liburutegia_2526_PlantilaGit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4907EC-BB1C-4DB7-ACDC-B09A1641A861}|3POO_6.csproj|c:\\users\\irinfor6\\desktop\\paag\\0485 programazioa\\3poo\\3poo_6liburutegia_2526_plantilagit\\liburua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4907EC-BB1C-4DB7-ACDC-B09A1641A861}|3POO_6.csproj|solutionrelative:liburua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4907EC-BB1C-4DB7-ACDC-B09A1641A861}|3POO_6.csproj|c:\\users\\irinfor6\\desktop\\paag\\0485 programazioa\\3poo\\3poo_6liburutegia_2526_plantilagit\\egilea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4907EC-BB1C-4DB7-ACDC-B09A1641A861}|3POO_6.csproj|solutionrelative:egilea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4907EC-BB1C-4DB7-ACDC-B09A1641A861}|3POO_6.csproj|c:\\users\\irinfor6\\desktop\\paag\\0485 programazioa\\3poo\\3poo_6liburutegia_2526_plantilagit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4907EC-BB1C-4DB7-ACDC-B09A1641A861}|3POO_6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4907EC-BB1C-4DB7-ACDC-B09A1641A861}|3POO_6.csproj|c:\\users\\irinfor6\\desktop\\paag\\0485 programazioa\\3poo\\3poo_6liburutegia_2526_plantilagit\\liburutegia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4907EC-BB1C-4DB7-ACDC-B09A1641A861}|3POO_6.csproj|solutionrelative:liburutegia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4907EC-BB1C-4DB7-ACDC-B09A1641A861}|3POO_6.csproj|c:\\users\\irinfor6\\desktop\\paag\\0485 programazioa\\3poo\\3poo_6liburutegia_2526_plantilagit\\fitxategikudeaketa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4907EC-BB1C-4DB7-ACDC-B09A1641A861}|3POO_6.csproj|solutionrelative:fitxategikudeaketa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 47,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FitxategiKudeaketa.cs",
+              "DocumentMoniker": "C:\\Users\\irInfor6\\Desktop\\PAAG\\0485 PROGRAMAZIOA\\3POO\\3POO_6Liburutegia_2526_PlantilaGit\\FitxategiKudeaketa.cs",
+              "RelativeDocumentMoniker": "FitxategiKudeaketa.cs",
+              "ToolTip": "C:\\Users\\irInfor6\\Desktop\\PAAG\\0485 PROGRAMAZIOA\\3POO\\3POO_6Liburutegia_2526_PlantilaGit\\FitxategiKudeaketa.cs",
+              "RelativeToolTip": "FitxategiKudeaketa.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:38:30.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Liburutegia.cs",
+              "DocumentMoniker": "C:\\Users\\irInfor6\\Desktop\\PAAG\\0485 PROGRAMAZIOA\\3POO\\3POO_6Liburutegia_2526_PlantilaGit\\Liburutegia.cs",
+              "RelativeDocumentMoniker": "Liburutegia.cs",
+              "ToolTip": "C:\\Users\\irInfor6\\Desktop\\PAAG\\0485 PROGRAMAZIOA\\3POO\\3POO_6Liburutegia_2526_PlantilaGit\\Liburutegia.cs",
+              "RelativeToolTip": "Liburutegia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:37:58.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\irInfor6\\Desktop\\PAAG\\0485 PROGRAMAZIOA\\3POO\\3POO_6Liburutegia_2526_PlantilaGit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\irInfor6\\Desktop\\PAAG\\0485 PROGRAMAZIOA\\3POO\\3POO_6Liburutegia_2526_PlantilaGit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:48:20.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Egilea.cs",
+              "DocumentMoniker": "C:\\Users\\irInfor6\\Desktop\\PAAG\\0485 PROGRAMAZIOA\\3POO\\3POO_6Liburutegia_2526_PlantilaGit\\Egilea.cs",
+              "RelativeDocumentMoniker": "Egilea.cs",
+              "ToolTip": "C:\\Users\\irInfor6\\Desktop\\PAAG\\0485 PROGRAMAZIOA\\3POO\\3POO_6Liburutegia_2526_PlantilaGit\\Egilea.cs",
+              "RelativeToolTip": "Egilea.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:47:44.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Liburua.cs",
+              "DocumentMoniker": "C:\\Users\\irInfor6\\Desktop\\PAAG\\0485 PROGRAMAZIOA\\3POO\\3POO_6Liburutegia_2526_PlantilaGit\\Liburua.cs",
+              "RelativeDocumentMoniker": "Liburua.cs",
+              "ToolTip": "C:\\Users\\irInfor6\\Desktop\\PAAG\\0485 PROGRAMAZIOA\\3POO\\3POO_6Liburutegia_2526_PlantilaGit\\Liburua.cs",
+              "RelativeToolTip": "Liburua.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:47:36.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 85,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 154,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
